@@ -5,18 +5,18 @@ description: '#14 — naar | Dutch Prepositions'
 
 ### direction
 
-> "Ik ga **naar** Amsterdam.
+> "Ik ga **naar** Amsterdam."
 > _— I'm going to Amsterdam._
 
 > "Ik ga **naar** mijn werk."
-> _I'm going to work._
+> _— I'm going to work._
 
 ---
 
 ### using with verbs
 
 > "Ik kijk **naar** buiten."
-> \_— I'm looking outside.
+> _— I'm looking outside._
 
 > "Ik ben op zoek **naar** een goed boek."
 > _— I'm looking for a good book._
