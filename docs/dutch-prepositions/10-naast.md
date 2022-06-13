@@ -5,7 +5,7 @@ description: '#10 — naast | Dutch Prepositions'
 
 ### position
 
-> "Birgit staat \*_naast_ de tafel.
+> "Birgit staat **naast** de tafel."
 > _— Birgit is (standing) next to the table._
 
 > "De kinderen staan **naast** elkaar."
