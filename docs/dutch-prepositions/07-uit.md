@@ -19,7 +19,7 @@ description: '#7 — uit | Dutch Prepositions'
 > _— We're going out for dinner._
 
 > "Wij gaan **uit** wandelen."
-> \_— We're going out for a walk.
+> _— We're going out for a walk._
 
 ---
 
