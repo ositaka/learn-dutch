@@ -19,7 +19,7 @@ description: '#15 — over | Dutch Prepositions'
 ### place / location
 
 > "Ik werk **over** de grens. (België / Duitsland)"
-> _— I work at the other side of the border._
+> _— I work at the other side of the border. (Belgium / Germany)_
 
 > "Ik loop **over** straat."
 > _— I'm waking down the street._
@@ -31,7 +31,7 @@ description: '#15 — over | Dutch Prepositions'
 > "Waar gaat deze video **over**?"
 > _— What's this video about?_
 >
-> "Deze video gaat **over** preposities!".
+> "Deze video gaat **over** preposities!"
 > _— This video is about prepositions!_
 
 ---
