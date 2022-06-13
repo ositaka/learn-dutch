@@ -29,7 +29,7 @@ description: '#17 — met | Dutch Prepositions'
 
 ### "inclusive ending"
 
-> De yoghurt is houdbaar tot en **met** 12 april."
+> "De yoghurt is houdbaar tot en **met** 12 april."
 > _— The yogurt can be used trough April 12._
 
 > "Hoe gaat het **met** jou?"
