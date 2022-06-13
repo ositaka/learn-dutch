@@ -14,7 +14,7 @@ description: 'Discover on this page how to write the months of the year in Dutch
 | ------------- | ------------ | ------------- |
 | **januari**   | (jan.)       | _— January_   |
 | **februari**  | (feb.)       | _— February_  |
-| **maart**     | (mat.)       | _— March_     |
+| **maart**     | (mrt.)       | _— March_     |
 | **april**     | (apr.)       | _— April_     |
 | **mei**       | (mei)        | _— May_       |
 | **juni**      | (juni)       | _— June_      |
