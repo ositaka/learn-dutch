@@ -11,7 +11,7 @@ description: '#8 — voor | Dutch Prepositions'
 > "Ik sta **voor** de deur."
 > _— I'm at the door._
 
-> "Ben ji er al?"
+> "Ben je er al?"
 > _— Are you here already?_
 >
 > "Ja, ik sta **voor** de deur."
