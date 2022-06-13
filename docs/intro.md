@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
 title: 'Introduction'
+sidebar_position: 0
 ---
 
 > Welkom bij de Nederlandse documenten en notities van Nuno Marques.
