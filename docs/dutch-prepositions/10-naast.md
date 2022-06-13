@@ -1,6 +1,6 @@
 ---
 title: '#10 — naast'
-metaTitle: '#10 — naast | Dutch Prepositions'
+description: '#10 — naast | Dutch Prepositions'
 ---
 
 ### position

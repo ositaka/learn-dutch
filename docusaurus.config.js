@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learn Dutch',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Dutch documents and notes by Nuno Marques',
   url: 'https://learn-dutch.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ositaka', // Usually your GitHub org/user name.
+  projectName: 'learn-dutch', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ositaka/learn-dutch/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ositaka/learn-dutch/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -69,9 +69,13 @@ const config = {
             position: 'left',
             label: 'Documents',
           },
+          { to: '/quizzes', label: 'Quizzes', position: 'left' },
+          { to: '/flashcards', label: 'Flashcards', position: 'left' },
+          { to: '/resources', label: 'Resources', position: 'left' },
+          { to: '/podcasts', label: 'Podcasts', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ositaka/learn-dutch',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +119,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ositaka/learn-dutch',
               },
             ],
           },

@@ -1,6 +1,6 @@
 ---
 title: '#14 — naar'
-metaTitle: '#14 — naar | Dutch Prepositions'
+description: '#14 — naar | Dutch Prepositions'
 ---
 
 ### direction

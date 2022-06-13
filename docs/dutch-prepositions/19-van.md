@@ -1,6 +1,6 @@
 ---
 title: '#19 — van'
-metaTitle: '#19 — van | Dutch Prepositions'
+description: '#19 — van | Dutch Prepositions'
 ---
 
 ### possession

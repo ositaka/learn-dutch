@@ -1,6 +1,6 @@
 ---
 title: 'Articles — "De" vs "Het"'
-metaTitle: 'Discover here the difference between the Dutch articles "De" vs "Het", and the main categories of each one, to know exactly when to use each one.'
+description: 'Discover here the difference between the Dutch articles "De" vs "Het", and the main categories of each one, to know exactly when to use each one.'
 ---
 
 ### 1. Verkleinwoorden _(diminutives)_

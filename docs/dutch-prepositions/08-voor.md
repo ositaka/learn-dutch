@@ -1,6 +1,6 @@
 ---
 title: '#8 — voor'
-metaTitle: '#8 — voor | Dutch Prepositions'
+description: '#8 — voor | Dutch Prepositions'
 ---
 
 ### position

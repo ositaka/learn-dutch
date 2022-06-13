@@ -1,6 +1,6 @@
 ---
 title: '#12 — bij'
-metaTitle: '#12 — bij | Dutch Prepositions'
+description: '#12 — bij | Dutch Prepositions'
 ---
 
 ### position

@@ -1,6 +1,6 @@
 ---
 title: '#18 — tot'
-metaTitle: '#18 — tot | Dutch Prepositions'
+description: '#18 — tot | Dutch Prepositions'
 ---
 
 ### time

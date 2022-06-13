@@ -1,6 +1,6 @@
 ---
 title: '"HET" — Categories'
-metaTitle: 'Discover here when to use the Dutch article "HET" and its most common used categories.'
+description: 'Discover here when to use the Dutch article "HET" and its most common used categories.'
 ---
 
 Below, you will find out the most common categories for the use of **HET** as article.

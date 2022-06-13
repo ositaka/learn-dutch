@@ -1,6 +1,6 @@
 ---
 title: '#6 — aan'
-metaTitle: '#6 — aan | Dutch Prepositions'
+description: '#6 — aan | Dutch Prepositions'
 ---
 
 ### position

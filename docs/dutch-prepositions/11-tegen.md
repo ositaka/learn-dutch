@@ -1,6 +1,6 @@
 ---
 title: '#11 — tegen'
-metaTitle: '#11 — tegen | Dutch Prepositions'
+description: '#11 — tegen | Dutch Prepositions'
 ---
 
 ### position

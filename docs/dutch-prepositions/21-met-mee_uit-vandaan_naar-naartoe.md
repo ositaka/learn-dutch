@@ -1,6 +1,6 @@
 ---
 title: '#21 — met > mee | uit > vandaan | naar > naartoe'
-metaTitle: '#21 — met > mee | uit > vandaan | naar > naartoe | Dutch Prepositions'
+description: '#21 — met > mee | uit > vandaan | naar > naartoe | Dutch Prepositions'
 ---
 
 ### met > mee

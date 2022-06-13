@@ -52,7 +52,7 @@
   font-weight: 900;
 }
 
-.markdown hr {
+hr {
   opacity: var(--opacity-decoration);
 }
 

@@ -1,6 +1,6 @@
 ---
 title: '#7 — uit'
-metaTitle: '#7 — uit | Dutch Prepositions'
+description: '#7 — uit | Dutch Prepositions'
 ---
 
 ### country / city of birth

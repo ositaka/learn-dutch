@@ -1,6 +1,6 @@
 ---
 title: '#16 — door'
-metaTitle: '#16 — door | Dutch Prepositions'
+description: '#16 — door | Dutch Prepositions'
 ---
 
 ### position / place / location
