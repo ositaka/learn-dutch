@@ -62,3 +62,8 @@ hr {
 .markdown h5 em {
   font-weight: normal;
 }
+
+.markdown table th {
+  font-size: x-small;
+  font-weight: 400;
+}
