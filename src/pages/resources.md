@@ -14,6 +14,7 @@ I've made a selection of the best on-line resources to level up your Dutch skill
 ### Interactive
 
 1. [**Free Dutch Grammar with exercises, classified by level and topic.**](https://thedutchonlineacademy.com/en/dutch-grammar) by [The Dutch Online Academy](https://thedutchonlineacademy.com/)
+2. [**Cooljugator: The Smart Conjugator in Dutch**](https://cooljugator.com/nl) by [Cooljugator](https://cooljugator.com/)
 
 ---
 
