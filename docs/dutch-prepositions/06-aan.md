@@ -28,8 +28,8 @@ description: '#6 — aan | Dutch Prepositions'
 > "Ik geef les **aan** studenten."
 > _— I teach students._
 
-> "Ik geef een snoepje **aan** veggie."
-> _— I give Veggie a cat treat. (???)_
+> "Ik geef een snoepje **aan** Simba."
+> _— I give Simba a cat treat._
 
 ---
 

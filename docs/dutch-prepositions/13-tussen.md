@@ -25,7 +25,7 @@ description: '#13 — tussen | Dutch Prepositions'
 > "Blijft dit **tussen** ons?"
 > _— Is this staying between us?_
 
-> Ik hoop dat er niks **tussen** komt!"
+> "Ik hoop dat er niks **tussen** komt!"
 > _— I hope nothing comes up!_
 
 > "Iets **tussen** aanhalingsteken zetten."

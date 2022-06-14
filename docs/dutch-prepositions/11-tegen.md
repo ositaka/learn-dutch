@@ -32,6 +32,7 @@ description: '#11 — tegen | Dutch Prepositions'
 > ### but also
 >
 > "iets **voor** de hoofdpijn."
+> _— something for the headache._
 
 ---
 

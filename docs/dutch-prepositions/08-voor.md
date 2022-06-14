@@ -11,7 +11,7 @@ description: '#8 — voor | Dutch Prepositions'
 > "Ik sta **voor** de deur."
 > _— I'm at the door._
 
-> "Ben ji er al?"
+> "Ben je er al?"
 > _— Are you here already?_
 >
 > "Ja, ik sta **voor** de deur."
@@ -21,7 +21,7 @@ description: '#8 — voor | Dutch Prepositions'
 
 ### time
 
-> "Het is kwart **voor** 12.
+> "Het is kwart **voor** 12."
 > _— It's a quarter to twelve._
 
 > "We gaan **voor** 12 uur weg."
@@ -34,7 +34,7 @@ description: '#8 — voor | Dutch Prepositions'
 > "Ik maak deze video **voor** jullie!"
 > _— I'm making this video for you guys!_
 
-> "Met het WK voetbal ben ik **voor** Portugal.
+> "Met het WK voetbal ben ik **voor** Portugal."
 > _— With the World Championships I am supporting Portugal._
 
 ---
