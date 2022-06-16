@@ -1,9 +1,8 @@
 ---
-title: Quizzes
 description: On this page you will find out a list of links to free quizzes to test out your Dutch skills.
 ---
 
-## Introduction
+# Quizzes
 
 On this page you will find out a list of links to free quizzes to test out your Dutch skills. This is a great way to improve your Dutch skills while watching new phrases and words popping-up in your eyes for the first time.
 

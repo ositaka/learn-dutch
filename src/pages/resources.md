@@ -1,9 +1,8 @@
 ---
-title: Resources
 description: On this page you will find out a list of links to free resources to level up your Dutch skills.
 ---
 
-## Introduction
+# Resources
 
 I've made a selection of the best on-line resources to level up your Dutch skills.
 

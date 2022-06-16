@@ -1,9 +1,9 @@
 ---
 title: '#00 — Template'
-description: 'Find out in this page how to conjugate the Dutch verb "zijn" in all its different tenses.'
+description: 'Find out in this page how to conjugate the Dutch verb "zijn" (to be) in all its different tenses.'
 ---
 
-Find out in this page how to conjugate the Dutch verb "zijn" in all its different tenses.
+Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all its different tenses.
 
 ### Present
 
@@ -15,6 +15,12 @@ Find out in this page how to conjugate the Dutch verb "zijn" in all its differen
 |    Wij / We     |
 |     Jullie      |
 |       Zij       |
+
+> "Ik "
+> _— I _
+
+> "Ik "
+> _— I _
 
 ---
 
@@ -29,6 +35,12 @@ Find out in this page how to conjugate the Dutch verb "zijn" in all its differen
 |     Jullie      |
 |       Zij       |
 
+> "Ik "
+> _— I _
+
+> "Ik "
+> _— I _
+
 ---
 
 ### Future
@@ -41,6 +53,12 @@ Find out in this page how to conjugate the Dutch verb "zijn" in all its differen
 |    Wij / We     |
 |     Jullie      |
 |       Zij       |
+
+> "Ik "
+> _— I _
+
+> "Ik "
+> _— I _
 
 ---
 
@@ -55,27 +73,11 @@ Find out in this page how to conjugate the Dutch verb "zijn" in all its differen
 |     Jullie      |
 |       Zij       |
 
----
+> "Ik "
+> _— I _
 
-### Imperative
-
-|     | IMPERATIVE MOOD |
-| :-: | :-------------: |
-| Du  |
-| Ihr |
-
----
-
-### Subjunctive
-
-|                 | SUBJUNCTIVE MOOD |
-| :-------------: | :--------------: |
-|       Ik        |
-|  Jij / Je / U   |
-| Hij / Zij / Het |
-|    Wij / We     |
-|     Jullie      |
-|       Zij       |
+> "Ik "
+> _— I _
 
 ---
 

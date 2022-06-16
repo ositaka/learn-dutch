@@ -1,9 +1,9 @@
 ---
 title: '#1 — Zijn'
-description: 'Find out in this page how to conjugate the Dutch verb "zijn" in all its different tenses.'
+description: 'Find out in this page how to conjugate the Dutch verb "zijn" (to be) in all its different tenses.'
 ---
 
-Find out in this page how to conjugate the Dutch verb "zijn" in all its different tenses.
+Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all its different tenses.
 
 ## Conjugation
 

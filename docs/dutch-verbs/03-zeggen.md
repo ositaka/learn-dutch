@@ -1,9 +1,9 @@
 ---
 title: '#3 — Zeggen'
-description: 'Find out in this page how to conjugate the Dutch verb "zeggen" in all its different tenses.'
+description: 'Find out in this page how to conjugate the Dutch verb "zeggen" (to say) in all its different tenses.'
 ---
 
-Find out in this page how to conjugate the Dutch verb "zeggen" in all its different tenses.
+Find out in this page how to conjugate the Dutch verb "zeggen" _(to say)_ in all its different tenses.
 
 ### Present
 
@@ -62,28 +62,6 @@ Find out in this page how to conjugate the Dutch verb "zeggen" in all its differ
 |    Wij / We     | **zouden zeggen** |  **zouden gezegd zeggen** |
 |     Jullie      | **zouden zeggen** |  **zouden gezegd zeggen** |
 |       Zij       | **zouden zeggen** |  **zouden gezegd zeggen** |
-
----
-
-### Imperative
-
-|     | IMPERATIVE MOOD |
-| :-: | :-------------: |
-| Du  |     **zeg**     |
-| Ihr |    **zegt**     |
-
----
-
-### Subjunctive
-
-|                 | SUBJUNCTIVE MOOD |
-| :-------------: | :--------------: |
-|       Ik        |    **zegge**     |
-|  Jij / Je / U   |    **zegge**     |
-| Hij / Zij / Het |    **zegge**     |
-|    Wij / We     |    **zegge**     |
-|     Jullie      |    **zegge**     |
-|       Zij       |    **zegge**     |
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: '#2 — Hebben'
-description: 'Find out in this page how to conjugate the Dutch verb "hebben" in all its different tenses.'
+description: 'Find out in this page how to conjugate the Dutch verb "hebben" (to have) in all its different tenses.'
 ---
 
-Find out in this page how to conjugate the Dutch verb "hebben" in all its different tenses.
+Find out in this page how to conjugate the Dutch verb "hebben" _(to have)_ in all its different tenses.
 
 ### Present
 
@@ -54,28 +54,6 @@ Find out in this page how to conjugate the Dutch verb "hebben" in all its differ
 |    Wij / We     | **zouden hebben** |   **zouden gehad hebben** |
 |     Jullie      | **zouden hebben** |   **zouden gehad hebben** |
 |       Zij       | **zouden hebben** |   **zouden gehad hebben** |
-
----
-
-### Imperative
-
-|     | IMPERATIVE MOOD |
-| :-: | :-------------: |
-| Du  |       heb       |
-| Ihr |      hebt       |
-
----
-
-### Subjunctive
-
-|                 | SUBJUNCTIVE MOOD |
-| :-------------: | :--------------: |
-|       Ik        |      hebbe       |
-|  Jij / Je / U   |      hebbe       |
-| Hij / Zij / Het |      hebbe       |
-|    Wij / We     |      hebbe       |
-|     Jullie      |      hebbe       |
-|       Zij       |      hebbe       |
 
 ---
 

@@ -1,9 +1,8 @@
 ---
-title: Podcasts
 description: On this page you will find out a list of podcasts to help you learn Dutch.
 ---
 
-## Introduction
+# Podcasts
 
 Here you'll find out a selection of the best podcasts to help you learn Dutch.
 

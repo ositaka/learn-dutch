@@ -1,9 +1,8 @@
 ---
-title: Flashcards
 description: On this page you will find out a list of links to free flashcards to help you learning new Dutch words.
 ---
 
-## Introduction
+# Flashcards
 
 On this page you will find out a list of links to free flashcards to help you learning new Dutch words. This is a great way to improve your Dutch skills while learning new words.
 
