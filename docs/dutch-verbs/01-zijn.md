@@ -59,28 +59,6 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 
 ---
 
-### Imperative
-
-|     | IMPERATIVE MOOD |
-| :-: | :-------------: |
-| Du  |    **wees**     |
-| Ihr |    **weest**    |
-
----
-
-### Subjunctive
-
-|                 | SUBJUNCTIVE MOOD |
-| :-------------: | :--------------: |
-|       Ik        |     **zij**      |
-|  Jij / Je / U   |     **zij**      |
-| Hij / Zij / Het |     **zij**      |
-|    Wij / We     |     **zij**      |
-|     Jullie      |     **zij**      |
-|       Zij       |     **zij**      |
-
----
-
 ## Phrases examples
 
 > "Ik ben Nuno."
