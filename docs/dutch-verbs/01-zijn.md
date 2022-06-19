@@ -62,10 +62,13 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 ## Phrases examples
 
 > "**Ik ben** Nuno."
-> _— I am Nuno._
+> _— **I am** Nuno._
 
 > "**We zijn** goed op tijd."
-> _— We are on schedule._
+> _— **We are** on schedule._
+
+> "**Jullie zouden** één mooi koppel **zijn**."
+> _— **You would make** a beautiful couple._
 
 ---
 
