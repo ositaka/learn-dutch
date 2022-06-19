@@ -67,7 +67,7 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 > "**We zijn** goed op tijd."
 > _— **We are** on schedule._
 
-> "**Jullie zouden** één mooi koppel **zijn**."
+> "**Jullie zouden** een mooi koppel **zijn**."
 > _— **You would make** a beautiful couple._
 
 ---
