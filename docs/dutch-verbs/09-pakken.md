@@ -1,5 +1,5 @@
 ---
-title: '#9 — Pakken'
+title: '#9 — Pakken (take)'
 description: 'Find out in this page how to conjugate the Dutch verb "pakken" (to take) in all its different tenses.'
 ---
 

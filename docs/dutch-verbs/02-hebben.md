@@ -1,5 +1,5 @@
 ---
-title: '#2 — Hebben'
+title: '#2 — Hebben (have)'
 description: 'Find out in this page how to conjugate the Dutch verb "hebben" (to have) in all its different tenses.'
 ---
 

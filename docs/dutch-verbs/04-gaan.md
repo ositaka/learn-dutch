@@ -1,5 +1,5 @@
 ---
-title: '#4 — Gaan'
+title: '#4 — Gaan (go)'
 description: 'Find out in this page how to conjugate the Dutch verb "gaan" (to go) in all its different tenses.'
 ---
 

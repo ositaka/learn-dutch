@@ -134,3 +134,9 @@ const config = {
 };
 
 module.exports = config;
+// module.exports = {
+//   baseUrl: '/',
+//   clientModules: [
+//     require.resolve('./src/WebSpeechApi.js'),
+//   ],
+// };

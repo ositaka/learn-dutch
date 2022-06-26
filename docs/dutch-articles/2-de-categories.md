@@ -123,13 +123,13 @@ Below, you will find out the most common categories for the use of **DE** as art
 
 ### CAT. #8 — _Words ending on:_ **-ing**, **-heid**, **-teit**
 
-> **de** richt**ing**
+> **de** richt**ing**  
 > _— the direction_
 
-> **de** snel**heid**
+> **de** snel**heid**  
 > _— the speed_
 
-> **de** universi**teit**
+> **de** universi**teit**  
 > _— the university_
 
 ---

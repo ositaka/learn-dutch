@@ -13,7 +13,9 @@ I've made a selection of the best on-line resources to level up your Dutch skill
 ### Interactive
 
 1. [**Free Dutch Grammar with exercises, classified by level and topic.**](https://thedutchonlineacademy.com/en/dutch-grammar) by [The Dutch Online Academy](https://thedutchonlineacademy.com/)
-2. [**Cooljugator: The Smart Conjugator in Dutch**](https://cooljugator.com/nl) by [Cooljugator](https://cooljugator.com/)
+2. [**"De of Het?" | Find the correct article**](https://www.ensie.nl/de-of-het) by [Ensie](https://www.ensie.nl/)
+3. [**Reverso Context | Translation in context**](https://context.reverso.net/translation/english-dutch/) by [Reverso](https://context.reverso.net/)
+4. [**Cooljugator: The Smart Conjugator in Dutch**](https://cooljugator.com/nl) by [Cooljugator](https://cooljugator.com/)
 
 ---
 

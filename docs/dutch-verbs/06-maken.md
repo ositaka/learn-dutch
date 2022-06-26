@@ -1,5 +1,5 @@
 ---
-title: '#6 — Maken'
+title: '#6 — Maken (make)'
 description: 'Find out in this page how to conjugate the Dutch verb "maken" (to make) in all its different tenses.'
 ---
 
@@ -7,14 +7,14 @@ Find out in this page how to conjugate the Dutch verb "maken" _(to make)_ in all
 
 ### Present
 
-|                 |   PRESENT TENSE | PRESENT PERFECT TENSE |
-| :-------------: | --------------: | --------------------: |
-|       Ik        |  **maak** |    **heb gemaakt** |
-|  Jij / Je / U   | **maakt** |   **hebt gemaakt** |
-| Hij / Zij / Het | **maakt** |  **heeft gemaakt** |
-|    Wij / We     | **maken** | **hebben gemaakt** |
-|     Jullie      | **maken** | **hebben gemaakt** |
-|       Zij       | **maken** | **hebben gemaakt** |
+|                 | PRESENT TENSE | PRESENT PERFECT TENSE |
+| :-------------: | ------------: | --------------------: |
+|       Ik        |      **maak** |       **heb gemaakt** |
+|  Jij / Je / U   |     **maakt** |      **hebt gemaakt** |
+| Hij / Zij / Het |     **maakt** |     **heeft gemaakt** |
+|    Wij / We     |     **maken** |    **hebben gemaakt** |
+|     Jullie      |     **maken** |    **hebben gemaakt** |
+|       Zij       |     **maken** |    **hebben gemaakt** |
 
 > "Ik maak"
 > _— I make_
@@ -26,8 +26,8 @@ Find out in this page how to conjugate the Dutch verb "maken" _(to make)_ in all
 
 ### Past
 
-|                 |        PAST TENSE |    PAST PERFECT TENSE |
-| :-------------: | ----------------: | --------------------: |
+|                 |  PAST TENSE | PAST PERFECT TENSE |
+| :-------------: | ----------: | -----------------: |
 |       Ik        |  **maakte** |    **had gemaakt** |
 |  Jij / Je / U   |  **maakte** |    **had gemaakt** |
 | Hij / Zij / Het |  **maakte** |    **had gemaakt** |
@@ -45,8 +45,8 @@ Find out in this page how to conjugate the Dutch verb "maken" _(to make)_ in all
 
 ### Future
 
-|                 |          FUTURE TENSE |           FUTURE PERFECT TENSE |
-| :-------------: | --------------------: | -----------------------------: |
+|                 |     FUTURE TENSE |      FUTURE PERFECT TENSE |
+| :-------------: | ---------------: | ------------------------: |
 |       Ik        |    **zal maken** |    **zal gemaakt hebben** |
 |  Jij / Je / U   |   **zult maken** |    **zal gemaakt hebben** |
 | Hij / Zij / Het |    **zal maken** |    **zal gemaakt hebben** |
@@ -64,8 +64,8 @@ Find out in this page how to conjugate the Dutch verb "maken" _(to make)_ in all
 
 ### Conditional
 
-|                 |      CONDITIONAL MOOD |      CONDITIONAL PERFECT TENSE |
-| :-------------: | --------------------: | -----------------------------: |
+|                 | CONDITIONAL MOOD | CONDITIONAL PERFECT TENSE |
+| :-------------: | ---------------: | ------------------------: |
 |       Ik        |    **zou maken** |    **zou gemaakt hebben** |
 |  Jij / Je / U   |    **zou maken** |    **zou gemaakt hebben** |
 | Hij / Zij / Het |    **zou maken** |    **zou gemaakt hebben** |

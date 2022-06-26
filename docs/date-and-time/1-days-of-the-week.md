@@ -22,7 +22,7 @@ description: 'Discover on this page how to write the days of the week in Dutch.'
 
 ---
 
-> **dag** / **week** / **weekend**
+> **dag** / **week** / **weekend**  
 > _— day / — week / — weekend_
 
 > "Welke **dag** is het vandaag?"

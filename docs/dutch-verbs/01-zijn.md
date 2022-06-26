@@ -1,5 +1,5 @@
 ---
-title: '#1 — Zijn'
+title: '#1 — Zijn (be)'
 description: 'Find out in this page how to conjugate the Dutch verb "zijn" (to be) in all its different tenses.'
 ---
 

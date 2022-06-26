@@ -1,5 +1,5 @@
 ---
-title: '#3 — Zeggen'
+title: '#3 — Zeggen (say)'
 description: 'Find out in this page how to conjugate the Dutch verb "zeggen" (to say) in all its different tenses.'
 ---
 

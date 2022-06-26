@@ -1,5 +1,5 @@
 ---
-title: '#10 — Zien'
+title: '#10 — Zien (see)'
 description: 'Find out in this page how to conjugate the Dutch verb "zien" (to see) in all its different tenses.'
 ---
 

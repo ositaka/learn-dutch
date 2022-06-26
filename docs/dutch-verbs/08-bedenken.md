@@ -1,5 +1,5 @@
 ---
-title: '#8 — Bedenken'
+title: '#8 — Bedenken (think)'
 description: 'Find out in this page how to conjugate the Dutch verb "bedenken" (to think) in all its different tenses.'
 ---
 
@@ -9,12 +9,12 @@ Find out in this page how to conjugate the Dutch verb "bedenken" _(to think)_ in
 
 |                 | PRESENT TENSE | PRESENT PERFECT TENSE |
 | :-------------: | ------------: | --------------------: |
-|       Ik        |        **bedenk** |           **heb bedacht** |
-|  Jij / Je / U   |       **bedenkt** |          **hebt bedacht** |
-| Hij / Zij / Het |       **bedenkt** |         **heeft bedacht** |
-|    Wij / We     |      **bedenken** |        **hebben bedacht** |
-|     Jullie      |      **bedenken** |        **hebben bedacht** |
-|       Zij       |      **bedenken** |        **hebben bedacht** |
+|       Ik        |    **bedenk** |       **heb bedacht** |
+|  Jij / Je / U   |   **bedenkt** |      **hebt bedacht** |
+| Hij / Zij / Het |   **bedenkt** |     **heeft bedacht** |
+|    Wij / We     |  **bedenken** |    **hebben bedacht** |
+|     Jullie      |  **bedenken** |    **hebben bedacht** |
+|       Zij       |  **bedenken** |    **hebben bedacht** |
 
 > "Ik bedenk"
 > _— I think_
@@ -26,14 +26,14 @@ Find out in this page how to conjugate the Dutch verb "bedenken" _(to think)_ in
 
 ### Past
 
-|                 | PAST TENSE | PAST PERFECT TENSE |
-| :-------------: | ---------: | -----------------: |
-|       Ik        |    **bedacht** |        **had bedacht** |
-|  Jij / Je / U   |    **bedacht** |        **had bedacht** |
-| Hij / Zij / Het |    **bedacht** |        **had bedacht** |
-|    Wij / We     |  **bedachten** |     **hadden bedacht** |
-|     Jullie      |  **bedachten** |     **hadden bedacht** |
-|       Zij       |  **bedachten** |     **hadden bedacht** |
+|                 |    PAST TENSE | PAST PERFECT TENSE |
+| :-------------: | ------------: | -----------------: |
+|       Ik        |   **bedacht** |    **had bedacht** |
+|  Jij / Je / U   |   **bedacht** |    **had bedacht** |
+| Hij / Zij / Het |   **bedacht** |    **had bedacht** |
+|    Wij / We     | **bedachten** | **hadden bedacht** |
+|     Jullie      | **bedachten** | **hadden bedacht** |
+|       Zij       | **bedachten** | **hadden bedacht** |
 
 > "Ik bedacht"
 > _— I thought_
@@ -45,8 +45,8 @@ Find out in this page how to conjugate the Dutch verb "bedenken" _(to think)_ in
 
 ### Future
 
-|                 |    FUTURE TENSE |  FUTURE PERFECT TENSE |
-| :-------------: | --------------: | --------------------: |
+|                 |        FUTURE TENSE |      FUTURE PERFECT TENSE |
+| :-------------: | ------------------: | ------------------------: |
 |       Ik        |    **zal bedenken** |    **zal bedacht hebben** |
 |  Jij / Je / U   |   **zult bedenken** |    **zal bedacht hebben** |
 | Hij / Zij / Het |    **zal bedenken** |    **zal bedacht hebben** |
@@ -64,14 +64,14 @@ Find out in this page how to conjugate the Dutch verb "bedenken" _(to think)_ in
 
 ### Conditional
 
-|                 | CONDITIONAL MOOD | CONDITIONAL PERFECT TENSE |
-| :-------------: | ---------------: | ------------------------: |
-|       Ik        |     **zou bedenken** |        **zou bedacht hebben** |
-|  Jij / Je / U   |     **zou bedenken** |        **zou bedacht hebben** |
-| Hij / Zij / Het |     **zou bedenken** |        **zou bedacht hebben** |
-|    Wij / We     |  **zouden bedenken** |     **zouden bedacht hebben** |
-|     Jullie      |  **zouden bedenken** |     **zouden bedacht hebben** |
-|       Zij       |  **zouden bedenken** |     **zouden bedacht hebben** |
+|                 |    CONDITIONAL MOOD | CONDITIONAL PERFECT TENSE |
+| :-------------: | ------------------: | ------------------------: |
+|       Ik        |    **zou bedenken** |    **zou bedacht hebben** |
+|  Jij / Je / U   |    **zou bedenken** |    **zou bedacht hebben** |
+| Hij / Zij / Het |    **zou bedenken** |    **zou bedacht hebben** |
+|    Wij / We     | **zouden bedenken** | **zouden bedacht hebben** |
+|     Jullie      | **zouden bedenken** | **zouden bedacht hebben** |
+|       Zij       | **zouden bedenken** | **zouden bedacht hebben** |
 
 > "Ik zou bedenken"
 > _— I would think_

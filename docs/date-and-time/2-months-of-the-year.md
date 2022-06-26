@@ -27,5 +27,5 @@ description: 'Discover on this page how to write the months of the year in Dutch
 
 ---
 
-> **maand** / **jaar**
+> **maand** / **jaar**  
 > _— month / — year_

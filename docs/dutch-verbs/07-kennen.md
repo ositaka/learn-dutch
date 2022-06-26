@@ -1,5 +1,5 @@
 ---
-title: '#7 — Kennen'
+title: '#7 — Kennen (know)'
 description: 'Find out in this page how to conjugate the Dutch verb "kennen" (to know) in all its different tenses.'
 ---
 

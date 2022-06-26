@@ -131,16 +131,16 @@ Below, you will find out the most common categories for the use of **HET** as ar
 
 ### CAT. #9 — _Words ending on:_ **-isme**_,_ **-ment**_,_ **-sel**_,_ **-um**
 
-> **het** commin**isme**
+> **het** commin**isme**  
 > _— the communism_
 
-> **het** instru**ment**
+> **het** instru**ment**  
 > _— the instrument_
 
-> **het** kap**sel**
+> **het** kap**sel**  
 > _— the haircut_
 
-> **het** muse**um**
+> **het** muse**um**  
 > _— the museum_
 
 ---

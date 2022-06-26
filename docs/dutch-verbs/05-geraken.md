@@ -1,5 +1,5 @@
 ---
-title: '#5 — Geraken'
+title: '#5 — Geraken (get)'
 description: 'Find out in this page how to conjugate the Dutch verb "geraken" (to get) in all its different tenses.'
 ---
 
