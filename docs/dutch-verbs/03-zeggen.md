@@ -44,7 +44,7 @@ Find out in this page how to conjugate the Dutch verb "zeggen" _(to say)_ in all
 |                 |      FUTURE TENSE |     FUTURE PERFECT TENSE |
 | :-------------: | ----------------: | -----------------------: |
 |       Ik        |    **zal zeggen** |    **zal gezegd zeggen** |
-|  Jij / Je / U   |   **zult zeggen** |    **zal gezegd zeggen** |
+|  Jij / Je / U   |   **zult zeggen** |   **zult gezegd zeggen** |
 | Hij / Zij / Het |    **zal zeggen** |    **zal gezegd zeggen** |
 |    Wij / We     | **zullen zeggen** | **zullen gezegd zeggen** |
 |     Jullie      | **zullen zeggen** | **zullen gezegd zeggen** |
@@ -72,4 +72,4 @@ Find out in this page how to conjugate the Dutch verb "zeggen" _(to say)_ in all
 
 ---
 
-Source of this content: [Zeggen conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/zeggen)
+Source of this content: [Dutch verb "zeggen" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=zeggen&D1=24&H1=124)

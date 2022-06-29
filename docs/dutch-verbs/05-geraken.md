@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "geraken" _(to get)_ in al
 |                 |       FUTURE TENSE |    FUTURE PERFECT TENSE |
 | :-------------: | -----------------: | ----------------------: |
 |       Ik        |    **zal geraken** |    **zal geraakt zijn** |
-|  Jij / Je / U   |   **zult geraken** |    **zal geraakt zijn** |
+|  Jij / Je / U   |   **zult geraken** |   **zult geraakt zijn** |
 | Hij / Zij / Het |    **zal geraken** |    **zal geraakt zijn** |
 |    Wij / We     | **zullen geraken** | **zullen geraakt zijn** |
 |     Jullie      | **zullen geraken** | **zullen geraakt zijn** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "geraken" _(to get)_ in al
 
 ---
 
-Source of this content: [Geraken conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/geraken)
+Source of this content: [Dutch verb "geraken" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=geraken&D1=24&H1=124)

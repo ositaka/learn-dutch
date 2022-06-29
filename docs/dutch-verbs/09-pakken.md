@@ -1,5 +1,5 @@
 ---
-title: '#9 — Pakken (take)'
+title: '#9 — ??? Pakken (take)'
 description: 'Find out in this page how to conjugate the Dutch verb "pakken" (to take) in all its different tenses.'
 ---
 
@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "pakken" _(to take)_ in al
 |                 |      FUTURE TENSE |     FUTURE PERFECT TENSE |
 | :-------------: | ----------------: | -----------------------: |
 |       Ik        |    **zal pakken** |    **zal gepakt hebben** |
-|  Jij / Je / U   |   **zult pakken** |    **zal gepakt hebben** |
+|  Jij / Je / U   |   **zult pakken** |   **zult gepakt hebben** |
 | Hij / Zij / Het |    **zal pakken** |    **zal gepakt hebben** |
 |    Wij / We     | **zullen pakken** | **zullen gepakt hebben** |
 |     Jullie      | **zullen pakken** | **zullen gepakt hebben** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "pakken" _(to take)_ in al
 
 ---
 
-Source of this content: [Pakken conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/pakken)
+Source of this content: [Dutch verb "pakken" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=pakken&D1=24&H1=124)

@@ -36,7 +36,7 @@ Find out in this page how to conjugate the Dutch verb "hebben" _(to have)_ in al
 |                 |      FUTURE TENSE |    FUTURE PERFECT TENSE |
 | :-------------: | ----------------: | ----------------------: |
 |       Ik        |    **zal hebben** |    **zal gehad hebben** |
-|  Jij / Je / U   |   **zult hebben** |    **zal gehad hebben** |
+|  Jij / Je / U   |   **zult hebben** |   **zult gehad hebben** |
 | Hij / Zij / Het |    **zal hebben** |    **zal gehad hebben** |
 |    Wij / We     | **zullen hebben** | **zullen gehad hebben** |
 |     Jullie      | **zullen hebben** | **zullen gehad hebben** |
@@ -64,4 +64,4 @@ Find out in this page how to conjugate the Dutch verb "hebben" _(to have)_ in al
 
 ---
 
-Source of this content: [Hebben conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/hebben)
+Source of this content: [Dutch verb "hebben" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=hebben&D1=24&H1=124)

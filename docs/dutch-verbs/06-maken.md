@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "maken" _(to make)_ in all
 |                 |     FUTURE TENSE |      FUTURE PERFECT TENSE |
 | :-------------: | ---------------: | ------------------------: |
 |       Ik        |    **zal maken** |    **zal gemaakt hebben** |
-|  Jij / Je / U   |   **zult maken** |    **zal gemaakt hebben** |
+|  Jij / Je / U   |   **zult maken** |   **zult gemaakt hebben** |
 | Hij / Zij / Het |    **zal maken** |    **zal gemaakt hebben** |
 |    Wij / We     | **zullen maken** | **zullen gemaakt hebben** |
 |     Jullie      | **zullen maken** | **zullen gemaakt hebben** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "maken" _(to make)_ in all
 
 ---
 
-Source of this content: [Tegenmaken conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/tegenmaken)
+Source of this content: [Dutch verb "maken" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=maken&D1=24&H1=124)

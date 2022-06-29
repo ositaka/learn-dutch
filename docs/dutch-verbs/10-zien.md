@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "zien" _(to see)_ in all i
 |                 |    FUTURE TENSE |     FUTURE PERFECT TENSE |
 | :-------------: | --------------: | -----------------------: |
 |       Ik        |    **zal zien** |    **zal gezien hebben** |
-|  Jij / Je / U   |   **zult zien** |    **zal gezien hebben** |
+|  Jij / Je / U   |   **zult zien** |   **zult gezien hebben** |
 | Hij / Zij / Het |    **zal zien** |    **zal gezien hebben** |
 |    Wij / We     | **zullen zien** | **zullen gezien hebben** |
 |     Jullie      | **zullen zien** | **zullen gezien hebben** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "zien" _(to see)_ in all i
 
 ---
 
-Source of this conten1: [Zien conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/zien)
+Source of this content: [Dutch verb "zien" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=zien&D1=24&H1=124)

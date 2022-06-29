@@ -1,5 +1,5 @@
 ---
-title: '#99 — Template'
+title: '#99 — Template (english)'
 description: 'Find out in this page how to conjugate the Dutch verb "zijn" (to be) in all its different tenses.'
 ---
 
@@ -16,12 +16,6 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 |     Jullie      |
 |       Zij       |
 
-> "Ik "
-> _— I _
-
-> "Ik "
-> _— I _
-
 ---
 
 ### Past
@@ -34,12 +28,6 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 |    Wij / We     |
 |     Jullie      |
 |       Zij       |
-
-> "Ik "
-> _— I _
-
-> "Ik "
-> _— I _
 
 ---
 
@@ -54,12 +42,6 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 |     Jullie      |
 |       Zij       |
 
-> "Ik "
-> _— I _
-
-> "Ik "
-> _— I _
-
 ---
 
 ### Conditional
@@ -73,12 +55,6 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 |     Jullie      |
 |       Zij       |
 
-> "Ik "
-> _— I _
-
-> "Ik "
-> _— I _
-
 ---
 
 ## Phrases examples
@@ -88,4 +64,4 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 
 ---
 
-Source of this content: [Template conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/zijn)
+Source of this content: [Dutch verb "zijn" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=zijn&D1=24&H1=124)

@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "bedenken" _(to think)_ in
 |                 |        FUTURE TENSE |      FUTURE PERFECT TENSE |
 | :-------------: | ------------------: | ------------------------: |
 |       Ik        |    **zal bedenken** |    **zal bedacht hebben** |
-|  Jij / Je / U   |   **zult bedenken** |    **zal bedacht hebben** |
+|  Jij / Je / U   |   **zult bedenken** |   **zult bedacht hebben** |
 | Hij / Zij / Het |    **zal bedenken** |    **zal bedacht hebben** |
 |    Wij / We     | **zullen bedenken** | **zullen bedacht hebben** |
 |     Jullie      | **zullen bedenken** | **zullen bedacht hebben** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "bedenken" _(to think)_ in
 
 ---
 
-Source of this content: [Bedenken conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/bedenken)
+Source of this content: [Dutch verb "bedenken" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=bedenken&D1=24&H1=124)

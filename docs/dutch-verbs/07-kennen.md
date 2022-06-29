@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "kennen" _(to know)_ in al
 |                 |      FUTURE TENSE |     FUTURE PERFECT TENSE |
 | :-------------: | ----------------: | -----------------------: |
 |       Ik        |    **zal kennen** |    **zou gekend hebben** |
-|  Jij / Je / U   |   **zult kennen** |    **zou gekend hebben** |
+|  Jij / Je / U   |   **zult kennen** |   **zult gekend hebben** |
 | Hij / Zij / Het |    **zal kennen** |    **zou gekend hebben** |
 |    Wij / We     | **zullen kennen** | **zouden gekend hebben** |
 |     Jullie      | **zullen kennen** | **zouden gekend hebben** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "kennen" _(to know)_ in al
 
 ---
 
-Source of this content: [Kennen conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/kennen)
+Source of this content: [Dutch verb "kennen" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=kennen&D1=24&H1=124)

@@ -48,7 +48,7 @@ Find out in this page how to conjugate the Dutch verb "gaan" _(to go)_ in all it
 |                 |    FUTURE TENSE |   FUTURE PERFECT TENSE |
 | :-------------: | --------------: | ---------------------: |
 |       Ik        |    **zal gaan** |    **zal gegaan zijn** |
-|  Jij / Je / U   |   **zult gaan** |    **zal gegaan zijn** |
+|  Jij / Je / U   |   **zult gaan** |   **zult gegaan zijn** |
 | Hij / Zij / Het |    **zal gaan** |    **zal gegaan zijn** |
 |    Wij / We     | **zullen gaan** | **zullen gegaan zijn** |
 |     Jullie      | **zullen gaan** | **zullen gegaan zijn** |
@@ -88,4 +88,4 @@ Find out in this page how to conjugate the Dutch verb "gaan" _(to go)_ in all it
 
 ---
 
-Source of this content: [Gaan conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/gaan)
+Source of this content: [Dutch verb "gaan" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=gaan&D1=24&H1=124)

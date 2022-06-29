@@ -72,4 +72,4 @@ Find out in this page how to conjugate the Dutch verb "zijn" _(to be)_ in all it
 
 ---
 
-Source of this content: [Zijn conjugation in Dutch in all forms | CoolJugator.com](https://cooljugator.com/nl/zijn)
+Source of this content: [Dutch verb "zijn" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=zijn&D1=24&H1=124)
