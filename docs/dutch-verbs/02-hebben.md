@@ -59,8 +59,8 @@ Find out in this page how to conjugate the Dutch verb "hebben" _(to have)_ in al
 
 ## Phrases examples
 
-> "Jij hebt geld."
-> _— You have money._
+> "Jij hebt veel vrienden."
+> _— You have many friends._
 
 ---
 
