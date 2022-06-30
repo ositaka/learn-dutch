@@ -62,6 +62,9 @@ Find out in this page how to conjugate the Dutch verb "hebben" _(to have)_ in al
 > "Jij hebt veel vrienden."
 > _— You have many friends._
 
+> "Je was gulzig!"  
+> _— You were greedy!"
+
 ---
 
 Source of this content: [Dutch verb "hebben" conjugated | Verbix](https://verbix.com/webverbix/go.php?T1=hebben&D1=24&H1=124)
