@@ -30,12 +30,12 @@ Find out in this page how to conjugate the Dutch verb "zeggen" _(to say)_ in all
 
 |                 |              PAST TENSE | PAST PERFECT TENSE |
 | :-------------: | ----------------------: | -----------------: |
-|       Ik        |     **zei** / **zegde** |     **had gezegd** |
-|  Jij / Je / U   |     **zei** / **zegde** |     **had gezegd** |
-| Hij / Zij / Het |     **zei** / **zegde** |     **had gezegd** |
-|    Wij / We     | **zeiden** / **zegden** |  **hadden gezegd** |
-|     Jullie      | **zeiden** / **zegden** |  **hadden gezegd** |
-|       Zij       | **zeiden** / **zegden** |  **hadden gezegd** |
+|       Ik        |     **zei** |     **had gezegd** |
+|  Jij / Je / U   |     **zei** |     **had gezegd** |
+| Hij / Zij / Het |     **zei** |     **had gezegd** |
+|    Wij / We     | **zeiden** |  **hadden gezegd** |
+|     Jullie      | **zeiden** |  **hadden gezegd** |
+|       Zij       | **zeiden** |  **hadden gezegd** |
 
 ---
 
