@@ -59,8 +59,8 @@ Find out in this page how to conjugate the Dutch verb "hebben" _(to have)_ in al
 
 ## Phrases examples
 
-> "Ik ben Nuno."
-> _— I am Nuno._
+> "Jij hebt geld."
+> _— You have money._
 
 ---
 
