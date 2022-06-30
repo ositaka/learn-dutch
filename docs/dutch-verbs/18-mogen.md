@@ -9,12 +9,12 @@ Find out in this page how to conjugate the Dutch verb "mogen" _(may)_ in all its
 
 |                 | PRESENT TENSE |            PRESENT PERFECT TENSE |
 | :-------------: | ------------: | -------------------------------: |
-|       Ik        |       **mag** |    **heb gemoogd** / **gemogen** |
-|  Jij / Je / U   |       **mag** |   **hebt gemoogd** / **gemogen** |
-| Hij / Zij / Het |       **mag** |  **heeft gemoogd** / **gemogen** |
-|    Wij / We     |     **mogen** | **hebben gemoogd** / **gemogen** |
-|     Jullie      |     **mogen** | **hebben gemoogd** / **gemogen** |
-|       Zij       |     **mogen** | **hebben gemoogd** / **gemogen** |
+|       Ik        |       **mag** |    **heb gemogen** |
+|  Jij / Je / U   |       **mag** |   **hebt gemogen** |
+| Hij / Zij / Het |       **mag** |  **heeft gemogen** |
+|    Wij / We     |     **mogen** | **hebben gemogen** |
+|     Jullie      |     **mogen** | **hebben gemogen** |
+|       Zij       |     **mogen** | **hebben gemogen** |
 
 ---
 
@@ -22,12 +22,12 @@ Find out in this page how to conjugate the Dutch verb "mogen" _(may)_ in all its
 
 |                 |  PAST TENSE |               PAST PERFECT TENSE |
 | :-------------: | ----------: | -------------------------------: |
-|       Ik        |   **mocht** |    **had gemoogd** / **gemogen** |
-|  Jij / Je / U   |   **mocht** |    **had gemoogd** / **gemogen** |
-| Hij / Zij / Het |   **mocht** |    **had gemoogd** / **gemogen** |
-|    Wij / We     | **mochten** | **hadden gemoogd** / **gemogen** |
-|     Jullie      | **mochten** | **hadden gemoogd** / **gemogen** |
-|       Zij       | **mochten** | **hadden gemoogd** / **gemogen** |
+|       Ik        |   **mocht** |    **had gemogen** |
+|  Jij / Je / U   |   **mocht** |    **had gemogen** |
+| Hij / Zij / Het |   **mocht** |    **had gemogen** |
+|    Wij / We     | **mochten** | **hadden gemogen** |
+|     Jullie      | **mochten** | **hadden gemogen** |
+|       Zij       | **mochten** | **hadden gemogen** |
 
 ---
 
@@ -35,12 +35,12 @@ Find out in this page how to conjugate the Dutch verb "mogen" _(may)_ in all its
 
 |                 |     FUTURE TENSE |                    FUTURE PERFECT TENSE |
 | :-------------: | ---------------: | --------------------------------------: |
-|       Ik        |    **zal mogen** |    **zal gemoogd** / **gemogen hebben** |
-|  Jij / Je / U   |   **zult mogen** |   **zult gemoogd** / **gemogen hebben** |
-| Hij / Zij / Het |    **zal mogen** |    **zal gemoogd** / **gemogen hebben** |
-|    Wij / We     | **zullen mogen** | **zullen gemoogd** / **gemogen hebben** |
-|     Jullie      | **zullen mogen** | **zullen gemoogd** / **gemogen hebben** |
-|       Zij       | **zullen mogen** | **zullen gemoogd** / **gemogen hebben** |
+|       Ik        |    **zal mogen** |    **zal gemogen hebben** |
+|  Jij / Je / U   |   **zult mogen** |   **zult gemogen hebben** |
+| Hij / Zij / Het |    **zal mogen** |    **zal gemogen hebben** |
+|    Wij / We     | **zullen mogen** | **zullen gemogen hebben** |
+|     Jullie      | **zullen mogen** | **zullen gemogen hebben** |
+|       Zij       | **zullen mogen** | **zullen gemogen hebben** |
 
 ---
 
@@ -48,12 +48,12 @@ Find out in this page how to conjugate the Dutch verb "mogen" _(may)_ in all its
 
 |                 | CONDITIONAL MOOD |               CONDITIONAL PERFECT TENSE |
 | :-------------: | ---------------: | --------------------------------------: |
-|       Ik        |    **zou mogen** |    **zou gemoogd** / **gemogen hebben** |
-|  Jij / Je / U   |    **zou mogen** |    **zou gemoogd** / **gemogen hebben** |
-| Hij / Zij / Het |    **zou mogen** |    **zou gemoogd** / **gemogen hebben** |
-|    Wij / We     | **zouden mogen** | **zouden gemoogd** / **gemogen hebben** |
-|     Jullie      | **zouden mogen** | **zouden gemoogd** / **gemogen hebben** |
-|       Zij       | **zouden mogen** | **zouden gemoogd** / **gemogen hebben** |
+|       Ik        |    **zou mogen** |    **zou gemogen hebben** |
+|  Jij / Je / U   |    **zou mogen** |    **zou gemogen hebben** |
+| Hij / Zij / Het |    **zou mogen** |    **zou gemogen hebben** |
+|    Wij / We     | **zouden mogen** | **zouden gemogen hebben** |
+|     Jullie      | **zouden mogen** | **zouden gemogen hebben** |
+|       Zij       | **zouden mogen** | **zouden gemogen hebben** |
 
 ---
 
