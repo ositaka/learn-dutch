@@ -22,9 +22,3 @@ I've made a selection of the best on-line resources to level up your Dutch skill
 ### Static
 
 1. [**Dutch Grammar**](https://en.wikipedia.org/wiki/Dutch_grammar) on [Wikipedia](https://en.wikipedia.org/)
-
----
-
-## YouTube Channels
-
-You don't need React to write simple standalone pages.
